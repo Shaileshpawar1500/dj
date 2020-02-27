@@ -25,4 +25,4 @@ class StudViewCrud(generics.RetrieveUpdateDestroyAPIView):
 
 def StudentView(request):
     return render(request,"base.html")
-
+#edited
